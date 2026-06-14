@@ -8,6 +8,12 @@ A Raspberry Pi delivery prototype that combines:
 
 This was originally built as a bachelor's project. The repository has been cleaned up so it can be shared as a project portfolio piece without committing private face images or generated model files.
 
+# Demo Video
+
+
+https://github.com/user-attachments/assets/885bd2d7-453e-487c-9f83-cd11287c14f0
+
+
 ## Project Flow
 
 1. Capture face samples for each authorized user.
